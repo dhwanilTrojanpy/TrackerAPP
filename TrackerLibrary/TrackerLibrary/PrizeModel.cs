@@ -8,6 +8,7 @@ namespace TrackerLibrary
 {
     public class PrizeModel
     {
+        public int Id { get; set; }
         /// <summary>
         /// Represents the place number of the team.
         /// </summary>
@@ -24,5 +25,28 @@ namespace TrackerLibrary
         /// Represents the prize percentage.
         /// </summary>
         public double Percentage { get; set; }
+
+        public PrizeModel()
+        {
+             
+        }
+        public PrizeModel(string placeName, string placeNumber, string prizeAmount, string prizePercentage)
+        {
+            PlaceName = placeName;
+
+            int placeNumberValue = 0;
+            int.TryParse(placeNumber, out placeNumberValue);
+            PlaceNumber = placeNumberValue;
+
+            decimal prizeAmountValue = 0;
+            decimal.TryParse(prizeAmount, out prizeAmountValue);
+            PrizeAmount = prizeAmountValue;
+
+            double prizePercentageValue = 0;
+            double.TryParse(prizePercentage, out prizePercentageValue);
+            Percentage = prizePercentageValue;
+
+        }   
+
     }
 }

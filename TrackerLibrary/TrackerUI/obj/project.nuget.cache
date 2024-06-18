@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "8rX6xfc8tph90LJ7Cepe6JWYJV7/cNB0wD2G/7SjjPVoRMJbWHfNFe3vtwWK8MlXhLC5NFrGo0UwAChOmHPGYw==",
+  "dgSpecHash": "ZNTzhkm1PxI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leader Frames\\Desktop\\.NETApp\\TrackerLibrary\\TrackerUI\\TrackerUI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Harshil Bhavsar\\Desktop\\Dhwanil\\dhwanilTrojanpy\\TrackerAPP\\TrackerLibrary\\TrackerUI\\TrackerUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Harshil Bhavsar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Harshil Bhavsar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Harshil Bhavsar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Harshil Bhavsar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
+  ],
   "logs": []
 }

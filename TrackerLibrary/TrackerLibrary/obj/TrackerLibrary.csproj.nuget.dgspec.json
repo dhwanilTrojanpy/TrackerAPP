@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leader Frames\\Desktop\\.NETApp\\TrackerLibrary\\TrackerLibrary\\TrackerLibrary.csproj": {}
+    "C:\\Users\\Harshil Bhavsar\\Desktop\\Dhwanil\\dhwanilTrojanpy\\TrackerAPP\\TrackerLibrary\\TrackerLibrary\\TrackerLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leader Frames\\Desktop\\.NETApp\\TrackerLibrary\\TrackerLibrary\\TrackerLibrary.csproj": {
+    "C:\\Users\\Harshil Bhavsar\\Desktop\\Dhwanil\\dhwanilTrojanpy\\TrackerAPP\\TrackerLibrary\\TrackerLibrary\\TrackerLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leader Frames\\Desktop\\.NETApp\\TrackerLibrary\\TrackerLibrary\\TrackerLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Harshil Bhavsar\\Desktop\\Dhwanil\\dhwanilTrojanpy\\TrackerAPP\\TrackerLibrary\\TrackerLibrary\\TrackerLibrary.csproj",
         "projectName": "TrackerLibrary",
-        "projectPath": "C:\\Users\\Leader Frames\\Desktop\\.NETApp\\TrackerLibrary\\TrackerLibrary\\TrackerLibrary.csproj",
-        "packagesPath": "C:\\Users\\Leader Frames\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leader Frames\\Desktop\\.NETApp\\TrackerLibrary\\TrackerLibrary\\obj\\",
+        "projectPath": "C:\\Users\\Harshil Bhavsar\\Desktop\\Dhwanil\\dhwanilTrojanpy\\TrackerAPP\\TrackerLibrary\\TrackerLibrary\\TrackerLibrary.csproj",
+        "packagesPath": "C:\\Users\\Harshil Bhavsar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Harshil Bhavsar\\Desktop\\Dhwanil\\dhwanilTrojanpy\\TrackerAPP\\TrackerLibrary\\TrackerLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Leader Frames\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Harshil Bhavsar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -49,16 +55,31 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.315\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

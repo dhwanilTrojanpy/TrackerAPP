@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Harshil Bhavsar\\Desktop\\Dhwanil\\dhwanilTrojanpy\\TrackerAPP\\TrackerLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{880F74D1-2446-49E1-B914-96AD165CDE81}|TrackerUI\\TrackerUI.csproj|c:\\users\\harshil bhavsar\\desktop\\dhwanil\\dhwaniltrojanpy\\trackerapp\\trackerlibrary\\trackerui\\createprizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880F74D1-2446-49E1-B914-96AD165CDE81}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\createprizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB3FF19-932A-40C1-B4B1-5299968A6EE9}|TrackerLibrary\\TrackerLibrary.csproj|c:\\users\\harshil bhavsar\\desktop\\dhwanil\\dhwaniltrojanpy\\trackerapp\\trackerlibrary\\trackerlibrary\\prizemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB3FF19-932A-40C1-B4B1-5299968A6EE9}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\prizemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880F74D1-2446-49E1-B914-96AD165CDE81}|TrackerUI\\TrackerUI.csproj|c:\\users\\harshil bhavsar\\desktop\\dhwanil\\dhwaniltrojanpy\\trackerapp\\trackerlibrary\\trackerui\\createprizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{880F74D1-2446-49E1-B914-96AD165CDE81}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\createprizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrizeModel.cs",
+              "DocumentMoniker": "C:\\Users\\Harshil Bhavsar\\Desktop\\Dhwanil\\dhwanilTrojanpy\\TrackerAPP\\TrackerLibrary\\TrackerLibrary\\PrizeModel.cs",
+              "RelativeDocumentMoniker": "TrackerLibrary\\PrizeModel.cs",
+              "ToolTip": "C:\\Users\\Harshil Bhavsar\\Desktop\\Dhwanil\\dhwanilTrojanpy\\TrackerAPP\\TrackerLibrary\\TrackerLibrary\\PrizeModel.cs",
+              "RelativeToolTip": "TrackerLibrary\\PrizeModel.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T02:24:56.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreatePrizeForm.cs",
+              "DocumentMoniker": "C:\\Users\\Harshil Bhavsar\\Desktop\\Dhwanil\\dhwanilTrojanpy\\TrackerAPP\\TrackerLibrary\\TrackerUI\\CreatePrizeForm.cs",
+              "RelativeDocumentMoniker": "TrackerUI\\CreatePrizeForm.cs",
+              "ToolTip": "C:\\Users\\Harshil Bhavsar\\Desktop\\Dhwanil\\dhwanilTrojanpy\\TrackerAPP\\TrackerLibrary\\TrackerUI\\CreatePrizeForm.cs",
+              "RelativeToolTip": "TrackerUI\\CreatePrizeForm.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAArwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T01:49:20.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreatePrizeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Harshil Bhavsar\\Desktop\\Dhwanil\\dhwanilTrojanpy\\TrackerAPP\\TrackerLibrary\\TrackerUI\\CreatePrizeForm.cs",
+              "RelativeDocumentMoniker": "TrackerUI\\CreatePrizeForm.cs",
+              "ToolTip": "C:\\Users\\Harshil Bhavsar\\Desktop\\Dhwanil\\dhwanilTrojanpy\\TrackerAPP\\TrackerLibrary\\TrackerUI\\CreatePrizeForm.cs [Design]",
+              "RelativeToolTip": "TrackerUI\\CreatePrizeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T01:49:13.74Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

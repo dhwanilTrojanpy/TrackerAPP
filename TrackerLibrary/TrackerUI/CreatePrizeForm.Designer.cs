@@ -28,125 +28,131 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.PrizePercentageTextBox = new System.Windows.Forms.TextBox();
-            this.PrizePercentageLabel = new System.Windows.Forms.Label();
-            this.PriceAmountTextBox = new System.Windows.Forms.TextBox();
-            this.PrizeAmountLabel = new System.Windows.Forms.Label();
-            this.PlaceNameTextBox = new System.Windows.Forms.TextBox();
-            this.PlaceNameLabel = new System.Windows.Forms.Label();
-            this.PlaceNumberTextBox = new System.Windows.Forms.TextBox();
-            this.PlaceNumberLabel = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
-            this.CreatePrizeButton = new System.Windows.Forms.Button();
-            this.SuspendLayout();
+            PrizePercentageTextBox = new TextBox();
+            PrizePercentageLabel = new Label();
+            PriceAmountTextBox = new TextBox();
+            PrizeAmountLabel = new Label();
+            PlaceNameTextBox = new TextBox();
+            PlaceNameLabel = new Label();
+            PlaceNumberTextBox = new TextBox();
+            PlaceNumberLabel = new Label();
+            label1 = new Label();
+            CreatePrizeButton = new Button();
+            SuspendLayout();
             // 
             // PrizePercentageTextBox
             // 
-            this.PrizePercentageTextBox.Location = new System.Drawing.Point(229, 218);
-            this.PrizePercentageTextBox.Name = "PrizePercentageTextBox";
-            this.PrizePercentageTextBox.Size = new System.Drawing.Size(183, 23);
-            this.PrizePercentageTextBox.TabIndex = 39;
+            PrizePercentageTextBox.Location = new Point(262, 291);
+            PrizePercentageTextBox.Margin = new Padding(3, 4, 3, 4);
+            PrizePercentageTextBox.Name = "PrizePercentageTextBox";
+            PrizePercentageTextBox.Size = new Size(209, 27);
+            PrizePercentageTextBox.TabIndex = 39;
             // 
             // PrizePercentageLabel
             // 
-            this.PrizePercentageLabel.AutoSize = true;
-            this.PrizePercentageLabel.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.PrizePercentageLabel.Location = new System.Drawing.Point(44, 217);
-            this.PrizePercentageLabel.Name = "PrizePercentageLabel";
-            this.PrizePercentageLabel.Size = new System.Drawing.Size(180, 24);
-            this.PrizePercentageLabel.TabIndex = 41;
-            this.PrizePercentageLabel.Text = "Prize Percentage  :";
+            PrizePercentageLabel.AutoSize = true;
+            PrizePercentageLabel.Font = new Font("Times New Roman", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
+            PrizePercentageLabel.Location = new Point(50, 289);
+            PrizePercentageLabel.Name = "PrizePercentageLabel";
+            PrizePercentageLabel.Size = new Size(232, 31);
+            PrizePercentageLabel.TabIndex = 41;
+            PrizePercentageLabel.Text = "Prize Percentage  :";
             // 
             // PriceAmountTextBox
             // 
-            this.PriceAmountTextBox.Location = new System.Drawing.Point(229, 156);
-            this.PriceAmountTextBox.Name = "PriceAmountTextBox";
-            this.PriceAmountTextBox.Size = new System.Drawing.Size(183, 23);
-            this.PriceAmountTextBox.TabIndex = 40;
+            PriceAmountTextBox.Location = new Point(262, 208);
+            PriceAmountTextBox.Margin = new Padding(3, 4, 3, 4);
+            PriceAmountTextBox.Name = "PriceAmountTextBox";
+            PriceAmountTextBox.Size = new Size(209, 27);
+            PriceAmountTextBox.TabIndex = 40;
             // 
             // PrizeAmountLabel
             // 
-            this.PrizeAmountLabel.AutoSize = true;
-            this.PrizeAmountLabel.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.PrizeAmountLabel.Location = new System.Drawing.Point(74, 155);
-            this.PrizeAmountLabel.Name = "PrizeAmountLabel";
-            this.PrizeAmountLabel.Size = new System.Drawing.Size(149, 24);
-            this.PrizeAmountLabel.TabIndex = 42;
-            this.PrizeAmountLabel.Text = "Prize Amount : ";
+            PrizeAmountLabel.AutoSize = true;
+            PrizeAmountLabel.Font = new Font("Times New Roman", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
+            PrizeAmountLabel.Location = new Point(85, 207);
+            PrizeAmountLabel.Name = "PrizeAmountLabel";
+            PrizeAmountLabel.Size = new Size(197, 31);
+            PrizeAmountLabel.TabIndex = 42;
+            PrizeAmountLabel.Text = "Prize Amount : ";
             // 
             // PlaceNameTextBox
             // 
-            this.PlaceNameTextBox.Location = new System.Drawing.Point(229, 127);
-            this.PlaceNameTextBox.Name = "PlaceNameTextBox";
-            this.PlaceNameTextBox.Size = new System.Drawing.Size(183, 23);
-            this.PlaceNameTextBox.TabIndex = 37;
+            PlaceNameTextBox.Location = new Point(262, 169);
+            PlaceNameTextBox.Margin = new Padding(3, 4, 3, 4);
+            PlaceNameTextBox.Name = "PlaceNameTextBox";
+            PlaceNameTextBox.Size = new Size(209, 27);
+            PlaceNameTextBox.TabIndex = 37;
             // 
             // PlaceNameLabel
             // 
-            this.PlaceNameLabel.AutoSize = true;
-            this.PlaceNameLabel.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.PlaceNameLabel.Location = new System.Drawing.Point(75, 126);
-            this.PlaceNameLabel.Name = "PlaceNameLabel";
-            this.PlaceNameLabel.Size = new System.Drawing.Size(130, 24);
-            this.PlaceNameLabel.TabIndex = 38;
-            this.PlaceNameLabel.Text = "Place Name :";
+            PlaceNameLabel.AutoSize = true;
+            PlaceNameLabel.Font = new Font("Times New Roman", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
+            PlaceNameLabel.Location = new Point(86, 168);
+            PlaceNameLabel.Name = "PlaceNameLabel";
+            PlaceNameLabel.Size = new Size(168, 31);
+            PlaceNameLabel.TabIndex = 38;
+            PlaceNameLabel.Text = "Place Name :";
             // 
             // PlaceNumberTextBox
             // 
-            this.PlaceNumberTextBox.Location = new System.Drawing.Point(229, 98);
-            this.PlaceNumberTextBox.Name = "PlaceNumberTextBox";
-            this.PlaceNumberTextBox.Size = new System.Drawing.Size(183, 23);
-            this.PlaceNumberTextBox.TabIndex = 35;
+            PlaceNumberTextBox.Location = new Point(262, 131);
+            PlaceNumberTextBox.Margin = new Padding(3, 4, 3, 4);
+            PlaceNumberTextBox.Name = "PlaceNumberTextBox";
+            PlaceNumberTextBox.Size = new Size(209, 27);
+            PlaceNumberTextBox.TabIndex = 35;
             // 
             // PlaceNumberLabel
             // 
-            this.PlaceNumberLabel.AutoSize = true;
-            this.PlaceNumberLabel.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.PlaceNumberLabel.Location = new System.Drawing.Point(75, 94);
-            this.PlaceNumberLabel.Name = "PlaceNumberLabel";
-            this.PlaceNumberLabel.Size = new System.Drawing.Size(149, 24);
-            this.PlaceNumberLabel.TabIndex = 36;
-            this.PlaceNumberLabel.Text = "Place Number :";
+            PlaceNumberLabel.AutoSize = true;
+            PlaceNumberLabel.Font = new Font("Times New Roman", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
+            PlaceNumberLabel.Location = new Point(86, 125);
+            PlaceNumberLabel.Name = "PlaceNumberLabel";
+            PlaceNumberLabel.Size = new Size(196, 31);
+            PlaceNumberLabel.TabIndex = 36;
+            PlaceNumberLabel.Text = "Place Number :";
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.Location = new System.Drawing.Point(158, 191);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(89, 24);
-            this.label1.TabIndex = 43;
-            this.label1.Text = "-- OR --  ";
+            label1.AutoSize = true;
+            label1.Font = new Font("Times New Roman", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
+            label1.Location = new Point(181, 255);
+            label1.Name = "label1";
+            label1.Size = new Size(119, 31);
+            label1.TabIndex = 43;
+            label1.Text = "-- OR --  ";
             // 
             // CreatePrizeButton
             // 
-            this.CreatePrizeButton.Location = new System.Drawing.Point(171, 275);
-            this.CreatePrizeButton.Name = "CreatePrizeButton";
-            this.CreatePrizeButton.Size = new System.Drawing.Size(130, 32);
-            this.CreatePrizeButton.TabIndex = 44;
-            this.CreatePrizeButton.Text = "Create Prize";
-            this.CreatePrizeButton.UseVisualStyleBackColor = true;
+            CreatePrizeButton.Location = new Point(195, 367);
+            CreatePrizeButton.Margin = new Padding(3, 4, 3, 4);
+            CreatePrizeButton.Name = "CreatePrizeButton";
+            CreatePrizeButton.Size = new Size(149, 43);
+            CreatePrizeButton.TabIndex = 44;
+            CreatePrizeButton.Text = "Create Prize";
+            CreatePrizeButton.UseVisualStyleBackColor = true;
+            CreatePrizeButton.Click += CreatePrizeButton_Click;
             // 
             // CreatePrizeForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(526, 450);
-            this.Controls.Add(this.CreatePrizeButton);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.PrizePercentageTextBox);
-            this.Controls.Add(this.PrizePercentageLabel);
-            this.Controls.Add(this.PriceAmountTextBox);
-            this.Controls.Add(this.PrizeAmountLabel);
-            this.Controls.Add(this.PlaceNameTextBox);
-            this.Controls.Add(this.PlaceNameLabel);
-            this.Controls.Add(this.PlaceNumberTextBox);
-            this.Controls.Add(this.PlaceNumberLabel);
-            this.Name = "CreatePrizeForm";
-            this.Text = "CreatePrizeForm";
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(601, 600);
+            Controls.Add(CreatePrizeButton);
+            Controls.Add(label1);
+            Controls.Add(PrizePercentageTextBox);
+            Controls.Add(PrizePercentageLabel);
+            Controls.Add(PriceAmountTextBox);
+            Controls.Add(PrizeAmountLabel);
+            Controls.Add(PlaceNameTextBox);
+            Controls.Add(PlaceNameLabel);
+            Controls.Add(PlaceNumberTextBox);
+            Controls.Add(PlaceNumberLabel);
+            Margin = new Padding(3, 4, 3, 4);
+            Name = "CreatePrizeForm";
+            Text = "CreatePrizeForm";
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
