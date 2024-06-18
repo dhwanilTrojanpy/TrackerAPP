@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TrackerUI": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Leader Frames\\Desktop\\.NETApp\\TrackerLibrary\\TrackerUI"
+    }
+  }
+}

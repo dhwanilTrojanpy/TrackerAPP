@@ -1,0 +1,12 @@
+C:\Users\Leader Frames\Desktop\.NETApp\TrackerLibrary\TrackerLibrary\bin\Debug\net6.0\TrackerLibrary.deps.json
+C:\Users\Leader Frames\Desktop\.NETApp\TrackerLibrary\TrackerLibrary\bin\Debug\net6.0\TrackerLibrary.dll
+C:\Users\Leader Frames\Desktop\.NETApp\TrackerLibrary\TrackerLibrary\bin\Debug\net6.0\TrackerLibrary.pdb
+C:\Users\Leader Frames\Desktop\.NETApp\TrackerLibrary\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.csproj.AssemblyReference.cache
+C:\Users\Leader Frames\Desktop\.NETApp\TrackerLibrary\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leader Frames\Desktop\.NETApp\TrackerLibrary\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.AssemblyInfoInputs.cache
+C:\Users\Leader Frames\Desktop\.NETApp\TrackerLibrary\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.AssemblyInfo.cs
+C:\Users\Leader Frames\Desktop\.NETApp\TrackerLibrary\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Leader Frames\Desktop\.NETApp\TrackerLibrary\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.dll
+C:\Users\Leader Frames\Desktop\.NETApp\TrackerLibrary\TrackerLibrary\obj\Debug\net6.0\refint\TrackerLibrary.dll
+C:\Users\Leader Frames\Desktop\.NETApp\TrackerLibrary\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.pdb
+C:\Users\Leader Frames\Desktop\.NETApp\TrackerLibrary\TrackerLibrary\obj\Debug\net6.0\ref\TrackerLibrary.dll
