@@ -32,7 +32,11 @@ namespace TrackerUI
                 {
                     db.createPrize(model);
                 }
-                
+
+                PlaceNameTextBox.Text = "";
+                PlaceNumberTextBox.Text = "";
+                PriceAmountTextBox.Text = "0";
+                PrizePercentageTextBox.Text = "0";
             }
             else
             {
